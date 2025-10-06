@@ -94,7 +94,7 @@ This page focuses on evaluating overall sales performance and analyzing return b
 ## 🚀 Author  
 **Mina Ishak**  
 💼 Data Analyst | Power BI Developer  
-📧 [📧 minaashak45@gmail.com](mailto:minaashak45@gmail.com)  
+📧 [minaashak45@gmail.com](mailto:minaashak45@gmail.com)  
 🔗 [LinkedIn Profile]  
 
 ---
