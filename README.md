@@ -1,100 +1,99 @@
-# 📊 Corelytics-Dashboard
+# 📊 Corelytics Dashboard  
 
-## 🧩 Project Overview
-Corelytics Dashboard is an advanced Business Intelligence project built with Power BI, providing a complete 360° view of business performance.
+## 🔹 Project Overview  
+**Corelytics Dashboard** is an advanced **Business Intelligence project built with Power BI**, providing a complete 360° view of business performance.  
 It analyzes customer demographics, product performance, sales trends, returns, and machine efficiency — giving decision-makers actionable insights to improve profitability and operational performance.  
 
 ---
 
-## 📑 Dashboard Pages  
-
-### 🟦 1️⃣ Overview Page  
-This page provides a general snapshot of the overall business performance and key operational metrics.  
-
-**Key Metrics and Visuals:**  
-- **Active Customers:** Indicates how many customers are actively purchasing.  
-- **Total Revenue:** Displays the total spending on sold products.  
-- **Total Profit:** Calculates the net profit after deducting product costs.  
-- **Number of Orders:** Total number of orders placed.  
-- **Percentage of Returned Orders:** Shows the return rate from total sales to evaluate satisfaction levels.  
-- **Number of Machines:** Displays how many machines are currently in production.  
-- **Orders by Sub-Category:** Visualizes which product sub-categories generate the most orders.  
-- **Trend by Quarter:** Shows quarterly order trends and helps identify the best-performing periods.  
-- **Trend by Month:** Displays monthly sales performance and seasonal patterns.  
-- **Customer Gender Distribution:** Shows which gender represents the majority of customers.  
-- **Orders by Region:** Compares total orders across different regions.  
-- **Return Reasons Percentage:** Highlights the top reasons for returns to improve product quality and reduce complaints.  
+## ⚙️ Tools Used  
+- **Power BI** – for data modeling, DAX measures, and interactive visualizations  
+- **Excel** – for data cleaning, preparation, and transformation  
 
 ---
 
-### 🟩 2️⃣ Customer Page  
-This page focuses on understanding customer demographics and purchasing behavior to define target segments and improve marketing strategies.  
+## 📁 Pages Overview  
 
-**Key Metrics and Visuals:**  
-- **All Customers:** Total number of customers in the dataset.  
-- **Active Customers:** Customers who have made at least one purchase.  
-- **Average Income:** Displays the average customer income to identify target groups.  
-- **Average Age & Average Children:** Provides insight into the customer age range and family size.  
-- **Gender Distribution:** Compares purchasing patterns between male and female customers.  
-- **Customers by Region:** Shows how customers are distributed geographically.  
-- **Customers by Marital Status:** Percentage of married vs. single customers.  
-- **Customers by Education Level:** Displays the education background of customers.  
-- **Top Customers Table:** Highlights top customers, total orders, and total spending to identify loyal buyers.  
-
----
-
-### 🟨 3️⃣ Product Page  
-This page analyzes product performance, profitability, and production efficiency.  
-
-**Key Metrics and Visuals:**  
-- **Number of Products:** Displays the total number of products available.  
-- **Average Product Cost / Price / Profit:** Shows cost structure, pricing, and profit margins.  
-- **Orders by Sub-Category and Region:** Identifies high-demand product categories across regions (with drill-up & drill-down).  
-- **Units Produced per Machine:** Tracks each machine’s production capacity.  
-- **Machine Run Time:** Displays total hours each machine operated.  
-- **Tooltip Insights:** When hovering over a machine, additional KPIs appear — average runtime, production target, and idle hours.  
-- **Downtime Analysis:** Identifies reasons and duration of downtime to improve efficiency.  
-- **Trend by Sub-Category:** Visualizes order trends across product sub-categories.  
-- **Product Profitability Table:** Displays product name, total orders, total cost, total profit, and profit margin per product.  
+### 🟦 **1. Overview Page**  
+Focused on giving a high-level summary of business performance:  
+- **Active Customers:** Identified how many customers are currently buying  
+- **Total Revenue:** Total product cost for sold items  
+- **Total Profit:** Net profit after product costs  
+- **Number of Orders:** Total number of sales orders  
+- **Percentage Return Orders:** Share of returned orders compared to total  
+- **Number of Machines:** Total machines involved in production  
+- **Orders by Sub-Category:** Visualized total orders per sub-category  
+- **Quarterly & Monthly Trends:** Tracked order patterns over time  
+- **Gender Distribution:** Compared male vs. female customer ratios  
+- **Orders by Region:** Visualized demand by region  
+- **Return Reasons:** Identified top causes of product returns  
 
 ---
 
-### 🟥 4️⃣ Sales & Returns Page  
-This page focuses on evaluating overall sales performance and analyzing return behavior.  
-
-**Key Metrics and Visuals:**  
-- **Number of Orders:** Total number of placed orders.  
-- **Quantity Sold:** Total number of units sold.  
-- **Total Revenue:** Overall sales revenue generated.  
-- **Total Profit:** Net profit after all costs.  
-- **Count of Returned Orders:** Number of orders that were returned.  
-- **Percentage of Returned Orders:** Proportion of total orders that were returned.  
-- **Monthly Order Trend:** Displays order trends across months to detect seasonality.  
-- **Orders by Region:** Shows how order volume differs across regions.  
-- **Returned Orders by Sub-Category:** Identifies which product categories have the highest return rates.  
-- **Returned Orders by Country:** Shows return distribution by country.  
-- **Return Reasons Percentage:** Displays breakdown of returns based on complaint type or reason.  
+### 🟩 **2. Customer Page**  
+Focused on understanding the customer base and behavior:  
+- **All vs. Active Customers:** Total customers vs. those who actively purchase  
+- **Average Income:** Average yearly income per customer to identify target segments  
+- **Average Age & Children:** Profiled customer demographics  
+- **Gender Breakdown:** Identified dominant customer gender  
+- **Customers by Region:** Regional distribution of customers  
+- **Marital Status & Education Level:** Analyzed customer background and lifestyle factors  
+- **Top Customers Table:** Showed top buyers, total orders, and total spending  
 
 ---
 
-## 🧰 Tools & Technologies  
-- **Power BI** – Data visualization and business intelligence tool.  
-- **Excel** – Used for data preparation and cleaning before analysis.  
+### 🟨 **3. Product Page**  
+Dedicated to product analysis and machine performance:  
+- **Number of Products:** Total available products  
+- **Average Product Cost, Price & Profit:** Evaluated pricing strategy and profit margin  
+- **Orders per Sub-Category by Region:** Tracked product demand geographically (with Drill Up/Down)  
+- **Production per Machine:** Measured each machine’s output  
+- **Machine Run Time:** Analyzed operational hours and efficiency  
+- **Tooltip Insights:** Showed each machine’s average runtime, production target, and downtime  
+- **Downtime Analysis:** Identified reasons and durations for machine inactivity  
+- **Order Trends by Sub-Category:** Observed product-level sales trends  
+- **Product Table:** Listed each product’s order count, cost, profit, and margin  
 
 ---
 
-## 📈 Key Insights & Results  
-- Identified **top-performing product categories and customer segments**.  
-- Highlighted **main reasons for returns**, supporting product quality improvements.  
-- Discovered **monthly and quarterly sales trends** to guide forecasting and marketing.  
-- Improved **machine utilization and production efficiency** through downtime analysis.  
+### 🟥 **4. Sales & Returns Page**  
+Focused on sales performance and return management:  
+- **Number of Orders & Quantity Sold:** Measured total transactions and sold items  
+- **Total Revenue & Profit:** Summarized financial performance  
+- **Count & Percentage of Returns:** Tracked total returned orders and return rate  
+- **Monthly Trend:** Analyzed monthly order variations  
+- **Orders by Region:** Regional distribution of orders  
+- **Returns by Sub-Category & Country:** Identified where and which categories had the most returns  
+- **Return Reasons:** Analyzed main complaints causing product returns  
 
 ---
 
-## 🚀 Author  
-**Mina Ishak**  
-💼 Data Analyst | Power BI Developer  
-📧 [minaashak45@gmail.com](mailto:minaashak45@gmail.com)  
-🔗 [LinkedIn Profile]  
+## 🧠 Key Insights & Outcomes  
+- Identified the most **profitable products and customer segments**  
+- Highlighted **main reasons for product returns**  
+- Discovered **seasonal and regional sales patterns**  
+- Improved understanding of **machine efficiency and downtime causes**  
+- Provided management with **data-driven insights** to enhance strategy  
 
 ---
+
+## 🧩 Skills Applied  
+- Power BI Data Modeling  
+- DAX Calculations & KPIs  
+- Power Query Data Cleaning  
+- Data Visualization & Storytelling  
+- Business Performance Analysis  
+
+---
+
+## 🔗 Project Links  
+- **GitHub Repository:** [Add Link Here]  
+- **Power BI Dashboard (if published):** [Add Link Here]  
+
+---
+
+## 📬 Contact  
+For any inquiries, collaborations, or feedback, feel free to reach out:  
+📧 [**minaashak45@gmail.com**](mailto:minaashak45@gmail.com)
+
+  
