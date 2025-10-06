@@ -28,6 +28,7 @@ Focused on giving a high-level summary of business performance:
 - **Orders by Region:** Visualized demand by region  
 - **Return Reasons:** Identified top causes of product returns  
 
+![image alt]([https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2001.png?raw=true](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Overview%20Page.png?raw=true))
 ---
 
 ### 🟩 **2. Customer Page**  
@@ -40,6 +41,7 @@ Focused on understanding the customer base and behavior:
 - **Marital Status & Education Level:** Analyzed customer background and lifestyle factors  
 - **Top Customers Table:** Showed top buyers, total orders, and total spending  
 
+![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Customer%20Page.png?raw=true)
 ---
 
 ### 🟨 **3. Product Page**  
@@ -54,6 +56,9 @@ Dedicated to product analysis and machine performance:
 - **Order Trends by Sub-Category:** Observed product-level sales trends  
 - **Product Table:** Listed each product’s order count, cost, profit, and margin  
 
+![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20Page.png?raw=true)
+
+![image alt]([https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20Page.png?raw=true](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20ToolTip.png?raw=true))
 ---
 
 ### 🟥 **4. Sales & Returns Page**  
@@ -64,7 +69,9 @@ Focused on sales performance and return management:
 - **Monthly Trend:** Analyzed monthly order variations  
 - **Orders by Region:** Regional distribution of orders  
 - **Returns by Sub-Category & Country:** Identified where and which categories had the most returns  
-- **Return Reasons:** Analyzed main complaints causing product returns  
+- **Return Reasons:** Analyzed main complaints causing product returns
+
+  ![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Orders%20And%20Retuen%20Page.png?raw=true)
 
 ---
 
