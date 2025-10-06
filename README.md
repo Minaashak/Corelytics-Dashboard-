@@ -95,5 +95,5 @@ Focused on sales performance and return management:
 ## 📬 Contact  
 For any inquiries, collaborations, or feedback, feel free to reach out:  
 📧 [**minaashak45@gmail.com**](mailto:minaashak45@gmail.com)
-
+🔗 [My LinkedIn Profile](https://www.linkedin.com/in/mina-ishak-8591a6219) 
   
