@@ -28,7 +28,7 @@ Focused on giving a high-level summary of business performance:
 - **Orders by Region:** Visualized demand by region  
 - **Return Reasons:** Identified top causes of product returns  
 
-![image alt]([https://github.com/Minaashak/Wallet-Transactions-/blob/main/digital_wallet_transactions%2001.png?raw=true](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Overview%20Page.png?raw=true))
+![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Overview%20Page.png?raw=true)
 ---
 
 ### 🟩 **2. Customer Page**  
@@ -58,7 +58,7 @@ Dedicated to product analysis and machine performance:
 
 ![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20Page.png?raw=true)
 
-![image alt]([https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20Page.png?raw=true](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20ToolTip.png?raw=true))
+![image alt](https://github.com/Minaashak/Corelytics-Dashboard-/blob/main/Product%20ToolTip.png?raw=true)
 ---
 
 ### 🟥 **4. Sales & Returns Page**  
